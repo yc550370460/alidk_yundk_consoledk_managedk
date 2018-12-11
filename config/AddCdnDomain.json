@@ -1,0 +1,8 @@
+[
+  {
+    "DomainName": "console-api-test.huskymobile.net",
+    "CdnType": "download",
+    "Sources":"[{\"type\": \"domain\",\"content\": \"testupload-d6475.firebaseapp.com\",\"port\": \"443\",\"priority\": \"20\",\"weight\": \"10\"}]",
+    "Scope": "domestic"
+  }
+]

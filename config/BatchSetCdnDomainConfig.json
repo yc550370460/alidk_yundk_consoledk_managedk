@@ -1,0 +1,6 @@
+[
+  {
+    "DomainNames": "console-api-test.huskymobile.net",
+    "Functions": "[{\"functionArgs\":[{\"argName\": \"domain_name\", \"argValue\": \"testupload-d6475.firebaseapp.com\"}],\"functionName\":\"set_req_host_header\"},{\"functionArgs\":[{\"argName\": \"enable\", \"argValue\": \"on\"},{\"argName\": \"scheme_origin\", \"argValue\": \"https\"}],\"functionName\":\"forward_scheme\"},{\"functionArgs\":[{\"argName\": \"ttl\", \"argValue\": \"86400\"},{\"argName\": \"path\", \"argValue\": \"/\"}],\"functionName\":\"path_based_ttl_set\"},{\"functionArgs\":[{\"argName\": \"enable\", \"argValue\": \"on\"}],\"functionName\":\"range\"}]"
+  }
+]
