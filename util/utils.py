@@ -18,9 +18,6 @@ access_key_id = ''
 access_key_secret = ''
 cdn_server_address = 'https://cdn.aliyuncs.com'
 CONFIGSECTION = 'Credentials'
-cmdlist = '''
-接口说明请参照pdf文档
-'''
 
 
 def percent_encode(str):
